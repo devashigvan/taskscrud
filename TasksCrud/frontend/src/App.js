@@ -42,7 +42,7 @@ const App = () => {
   return (
     <main>
       <h1 className="title">CRUD OPERATION</h1>
-
+      
       <div className="input_holder">
         <input
           type="text"
